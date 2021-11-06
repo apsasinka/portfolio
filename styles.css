@@ -2,19 +2,19 @@ body{
     background-image:url("");
             background-color: antiquewhite;
 }
-h2{
+.h{
     color: #4d33068a;
     font-family: "EB Garamond";
     background-color: #f0a856;
     
 }
-blockquote{
+.block{
     padding-left: 100px;
 }
 .dark{
     background-color: #f0a856;
 }
-ol{
+.ol{
     list-style-image: linear-gradient(burlywood 0, burlywood 50%, #ffb214 50%);
 }
 .icon{
@@ -24,15 +24,15 @@ ol{
     font-size: 20px;
     margin-right: 1100px;
 }
-th{
+.th{
     background-color: #f0a856ce;
 }
-td{
+.td{
     background-color: rgba(248, 201, 100, 0.521);
 }
-p{
+.p{
     font-size: 20px;
 }
-li{
+.li{
     font-size: 18px;
 }
